@@ -1,6 +1,6 @@
 ## Clare Budds
 
-[Projects](#projects) | [Skills](#skills) [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/clare-budds) 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/clare-budds) 
 
 I am a motivated and driven software developer with an interest in improving life through tech. Recently graduated from Makers Academy, I have a proven ability to write quality, test-driven code. I continue to develop my tech knowledge via working on personal projects, taking part in hackathons, going to tech meetups and attending industry conferences and webinars. 
  
