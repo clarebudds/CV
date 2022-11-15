@@ -22,7 +22,7 @@ For a complete list see my [GitHub](https://github.com/clarebudds)
 
 #### Excellent communicator
 
-In my most recent role at Hilton, I participated in daily briefings with the hotel's senior management team, helped lead Hilton's collaboration with the Down Syndrome organisation (spoke on BBC 6 O'Clock news to discuss the partnership) and contributed to social channels (shot and edited a video to promote the hotel's partnership with the Felix Project charity. 
+In my most recent role at Hilton, I participated in daily briefings with the hotel's senior management team, helped lead Hilton's collaboration with the Down Syndrome organisation (spoke on BBC 6 O'Clock news to discuss the partnership) and contributed to social channels (shot and edited a video to promote the hotel's partnership with the Felix Project charity). 
 
 #### Sharing knowledge
 
