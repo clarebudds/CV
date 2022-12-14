@@ -16,7 +16,7 @@ My career experience in the publishing sector and hospitality industry, has requ
 | [MakersBnB](https://github.com/clarebudds/makers_bnb) | A website in the style of AirBnB where users could list and book properties. First group project at Makers. | Ruby, PostgreSQL, RSpec, HTML, CSS |
 | [Fakebook](https://github.com/clarebudds/the-fakebook) | Created a clone of facebook - a group project learning how to navigate an existing codebase. | JavaScript, Mongoose, Handlebars, React, HTML, CSS |
 | [Bank Tech Test](https://github.com/clarebudds/bank_tech_test) | A bank simulator using OOP design and TDD skills. | JavaScript, Nodejs, Jest |
-|
+
 
 For a complete list see my [GitHub](https://github.com/clarebudds)
 
