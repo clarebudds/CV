@@ -24,7 +24,7 @@ For a complete list see my [GitHub](https://github.com/clarebudds)
 
 #### Excellent communicator
 
-I have strong written and vocal communication skills, which were used daily during Makers - collaborating with fellow students and co-presenting group projects. In my role at Hilton, I participated in daily briefings with the hotel's senior management team, helped lead Hilton's collaboration with the Down Syndrome organisation (spoke on BBC 6 O'Clock news to discuss the partnership) and contributed to social channels (shot and edited a video to promote the hotel's partnership with the Felix Project charity. During my publishing career, I frequently liaised with internal and external clients to keep them up to date on all elements of projects and built strong, trusted relationships as a result. 
+I have strong written and vocal communication skills, which were used daily during Makers - collaborating with fellow students and co-presenting group projects. In my role at Hilton, I participated in daily briefings with the hotel's senior management team, helped lead Hilton's collaboration with the Down Syndrome organisation (spoke on BBC 6 O'Clock news to discuss the partnership) and contributed to social channels (shot and edited a video to promote the hotel's partnership with the Felix Project charity). During my publishing career, I frequently liaised with internal and external clients to keep them up to date on all elements of projects and built strong, trusted relationships as a result. 
 
 #### Team Player
 
